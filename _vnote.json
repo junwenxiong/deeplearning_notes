@@ -1,0 +1,27 @@
+{
+    "created_time": "2020-01-26T02:24:01Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-04T02:05:10Z",
+            "modified_time": "2020-02-04T02:07:35Z",
+            "name": "Readme.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "人工神经网络"
+        },
+        {
+            "name": "卷积神经网络"
+        },
+        {
+            "name": "tensorflow"
+        }
+    ],
+    "version": "1"
+}

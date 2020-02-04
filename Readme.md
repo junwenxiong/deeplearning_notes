@@ -1,0 +1,1 @@
+In this file,you can get a note about deep learning ,including DNN,CNN and so on. 
